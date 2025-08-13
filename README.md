@@ -13,5 +13,4 @@ css-practice/
 - HTML
 
 - CSS Grid Layout
-## 🌐 Live Demo
-▶ View CSS Practice on GitHub Pages
+
